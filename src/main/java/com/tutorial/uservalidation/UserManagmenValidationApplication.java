@@ -10,4 +10,4 @@ public class UserManagmenValidationApplication {
 		SpringApplication.run(UserManagmenValidationApplication.class, args);
 	}
 
-}
+}  
